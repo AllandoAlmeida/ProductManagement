@@ -1,6 +1,4 @@
-# Project Product Management
-
-# Projeto de Gestão de Produtos
+# Project Product Management -  Projeto de Gestão de Produtos
 
 ## 1. Introdução
 
